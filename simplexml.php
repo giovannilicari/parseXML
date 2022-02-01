@@ -21,5 +21,7 @@ foreach($xml->object as $object) {
     //and here we have everything we wanted to acquire for an object...
 }
 
+echo $id . "\n" . $name . "\n";
+
 var_dump("Mem in MiB: " . round((processPeakMemUsage() / 1024)));
 var_dump("Time in seconds:  " . (time() - $start));

@@ -2,7 +2,7 @@
 //filename: generate2.php
 
 //generates a random XML with vacancies info on particular date for hotel rooms
-$objects = 80000;
+$objects = 80;
 
 echo "<objects>\n";
 for ($i = 0; $i < $objects; $i++){

@@ -1,3 +1,4 @@
+<?php
 //memcheck.php
 /**
  * Gets peak memory usage of a process in KiB from /proc.../status.
