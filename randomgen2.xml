@@ -1,0 +1,20 @@
+<objects>
+    <object>
+        <id>123</id>
+        <name>random object name 123123</name>
+        <services>
+            <service>
+                <id>123</id>
+                <name>service name</name>
+            </service>            
+            ...
+        </services>
+        <features>
+            <feature>
+                <id>123</id>
+                <name>feature name</name>
+            </feature>            
+        </features>
+    </object>
+    ...
+</objects>
