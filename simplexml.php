@@ -3,7 +3,7 @@
 include "memcheck.php";
 $start = time();
 
-$xml = simplexml_load_file('random5.xml');
+$xml = simplexml_load_file('randomgen2.xml');
 
 foreach($xml->object as $object) {
     $id = (string) $object->id;
